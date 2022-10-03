@@ -8,9 +8,6 @@ I also created a video to talk about how to fix some of the common CodeDeploy fa
 ApplicationStop failed with exit code 1
 ```
 
-
-
-
 ```
 The overall deployment failed because too many individual instances failed deployment, too few healthy instances are available for deployment, or some instances in your deployment group are experiencing problems.
 ```
